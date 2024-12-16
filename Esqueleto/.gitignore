@@ -1,0 +1,4 @@
+#Para descartar el contenido de la carpeta generada target
+/target/
+#Para descartar el jar de 'pandora-usj' de la carpeta auxiliar lib
+/lib/
